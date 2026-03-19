@@ -1,3 +1,10 @@
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-blue)
+![REST API](https://img.shields.io/badge/REST-API-green)
+![Cart System](https://img.shields.io/badge/Cart-System-orange)
+![Orders](https://img.shields.io/badge/Orders-Processing-purple)
+![Pagination](https://img.shields.io/badge/Pagination-Enabled-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # 🛒 FastAPI Grocery Backend
 
 A complete backend system for a grocery delivery application built using FastAPI.
