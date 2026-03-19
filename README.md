@@ -119,4 +119,5 @@ grocery-api/
 
 ## 📌 Author
 
-Sai B
+Bhanu Sai Prakash Bandaru
+Aspiring Data Scientist|FastAPI
