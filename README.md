@@ -120,5 +120,4 @@ grocery-api/
 ## 📌 Author
 
 Bhanu Sai Prakash Bandaru
-
-Aspiring Data Scientist|FastAPI
+Aspiring Data Scientist | FastAPI
